@@ -1,0 +1,32 @@
+c:\users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\bin\Debug\Automata Project.exe.config
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\bin\Debug\Automata Project.exe
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\bin\Debug\Automata Project.pdb
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata Project.csprojResolveAssemblyReference.cache
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Form1.resources
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Mathematics.resources
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Properties.Resources.resources
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata Project.csproj.GenerateResource.Cache
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata Project.exe
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata Project.pdb
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Computer.resources
+C:\Users\mm computer\Documents\Visual Studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Difficulty.resources
+C:\Users\mm computer\Documents\Visual Studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.General_Knowledge.resources
+C:\Users\mm computer\Documents\Visual Studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Science.resources
+C:\Users\mm computer\Documents\Visual Studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Play.resources
+C:\Users\mm computer\documents\visual studio 2012\Projects\Automata Project\Automata Project\obj\Debug\Automata_Project.Exit.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\bin\Debug\Automata Project.exe.config
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata Project.exe
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata Project.pdb
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\bin\Debug\Automata Project.exe
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\bin\Debug\Automata Project.pdb
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata Project.csprojResolveAssemblyReference.cache
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Computer.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Difficulty.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Exit.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Form1.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.General_Knowledge.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Mathematics.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Play.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Properties.Resources.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Science.resources
+D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata Project.csproj.GenerateResource.Cache
