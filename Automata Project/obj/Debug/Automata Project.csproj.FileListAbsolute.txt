@@ -30,3 +30,20 @@ D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project
 D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Properties.Resources.resources
 D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata_Project.Science.resources
 D:\Uni\3rd year\5th semester\Theory of computer science\Project\Automata Project\Automata Project\obj\Debug\Automata Project.csproj.GenerateResource.Cache
+C:\Users\Hur\Desktop\automata\Automata Project\bin\Debug\Automata Project.exe.config
+C:\Users\Hur\Desktop\automata\Automata Project\bin\Debug\Automata Project.exe
+C:\Users\Hur\Desktop\automata\Automata Project\bin\Debug\Automata Project.pdb
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata Project.csprojAssemblyReference.cache
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Computer.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Difficulty.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Exit.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Form1.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.General_Knowledge.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Mathematics.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Play.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Properties.Resources.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata_Project.Science.resources
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata Project.csproj.GenerateResource.cache
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata Project.csproj.CoreCompileInputs.cache
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata Project.exe
+C:\Users\Hur\Desktop\automata\Automata Project\obj\Debug\Automata Project.pdb
